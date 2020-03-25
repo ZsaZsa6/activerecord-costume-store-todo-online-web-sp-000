@@ -1,1 +1,5 @@
-class HauntedHouse
+class CreateHauntedHouses
+  def change
+    
+  end
+end
