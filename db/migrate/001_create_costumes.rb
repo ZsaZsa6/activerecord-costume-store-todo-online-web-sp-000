@@ -5,7 +5,7 @@ def change
     t.string :name
     t.float :price
     t.string :size
-    t.url :image_url
+    t.text :image_url
     t.timestamps
     end
   end
