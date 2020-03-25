@@ -1,6 +1,6 @@
 class CreateHauntedHouses
   def change
-    
+    create_table :haunted
   end
 end
 # name
